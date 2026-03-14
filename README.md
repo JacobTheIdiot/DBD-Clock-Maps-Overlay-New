@@ -21,4 +21,4 @@ Download the zip in releases extract and run the exe
 If you want to build yourself, you can find guides online how to build qt projects, i don't feel like writing it out here.
 
 ## Disclaimer
-this code is not code is not good, 80% of it isn't mine and seems like the previous dev made it with ai, it was so annoying to make build let alone add onto it. I should've just not forked it and made it myself
+this code is not good, 80% of it isn't mine and seems like the previous dev made it with ai, it was so annoying to make build let alone add onto it. I should've just not forked it and made it myself
