@@ -14,6 +14,7 @@ Made using C++ and Qt Framework.
 
 ## Known issues
 - Image will not show up if you play in fullscreen mode. For this you should use windowed fullscreen or windowed modes. (this will be added in a future update)
+- Sometimes the hide/show overlay button starts tweaking and spams 3 or 4 times, no clue why but until i find the fix just wait a few seconds before pressing it again
 
 ## How To Use
 Download the zip in releases extract and run the exe
