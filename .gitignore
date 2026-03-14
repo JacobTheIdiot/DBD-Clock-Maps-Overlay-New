@@ -1,1 +1,15 @@
-.vs/ 
+.vs/
+release/
+debug/
+*.user
+*.stash
+Makefile
+Makefile.Debug
+Makefile.Release
+ui_mainwindow.h
+moc_*.cpp
+qrc_*.cpp
+*.obj
+*.res
+*.ilk
+*.pdb
