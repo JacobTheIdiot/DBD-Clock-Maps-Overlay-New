@@ -6,7 +6,7 @@ CONFIG += c++17
 RC_ICONS = resources\Img\Icon.ico
 
 # You can make your code fail to compile if it uses deprecated APIs.
-# In order to do so, uncomment the following line.
+# In order to do so, uncomment the following line. d
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
@@ -15,7 +15,8 @@ SOURCES += \
 
 HEADERS += \
     constants.h \
-    mainwindow.h
+    mainwindow.h \
+    style.h
 
 FORMS += \
     mainwindow.ui

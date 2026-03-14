@@ -7,10 +7,11 @@
 #include <string>
 
 // Array which holds pairs of realms' names and directories they are located in
-static const QVector<QPair<const QString, const QString>> REALM_PATH_PAIRS = {
+inline const QVector<QPair<const QString, const QString>> REALM_PATH_PAIRS = {
     {"No realm", "Choose a realm to continue"},
     {"Autohaven Wreckers", "AUTOHAVEN_WRECKERS"},
     {"Backwater Swamp", "BACKWATER_SWAMP"},
+    {"Badham", "BADHAM"},
     {"Coldwind Farm", "COLDWIND_FARM"},
     {"Crotus Prenn Asylum", "CROTUS_PRENN_ASYLUM"},
     {"Dvarka Deepwood", "DVARKA_DEEPWOOD"},

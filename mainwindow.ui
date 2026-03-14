@@ -249,7 +249,7 @@ background-color: rgb(85, 0, 255);</string>
               </property>
              </widget>
             </item>
-            <item alignment="Qt::AlignVCenter">
+            <item>
              <widget class="QSlider" name="overlayOffsetXSlider">
               <property name="minimumSize">
                <size>

@@ -6,12 +6,11 @@ You are also able to use any other image. PNGs with transparent parts are also s
 
 Made using C++ and Qt Framework.
 
-![image](https://github.com/emod108/DBD-Clock-Maps-Overlay/assets/91344595/30d10a06-1227-4944-b882-a4ee567dea6b)
+![image](preview.png)
 
 ## credits
 - emod108 for making the og
 - Clockmaps by Hens333: https://hens333.com/callouts
 
 ## Known issues
-- Image may not show up if you play in fullscreen mode. For this you should use windowed fullscreen or windowed modes.
-- May not work if you have more than one monitor
+- Image will not show up if you play in fullscreen mode. For this you should use windowed fullscreen or windowed modes. (this will be added in a future update)
