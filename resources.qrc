@@ -100,4 +100,7 @@
     <qresource prefix="/BADHAM">
         <file>resources/Callouts/BADHAM/Preschool1.png</file>
     </qresource>
+    <qresource prefix="/SLEEPLESS_DISTRICT">
+        <file>resources/Callouts/SLEEPLESS_DISTRICT/Tricksters Delusion.png</file>
+    </qresource>
 </RCC>

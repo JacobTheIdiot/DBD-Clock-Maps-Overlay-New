@@ -27,9 +27,11 @@ inline const QVector<QPair<const QString, const QString>> REALM_PATH_PAIRS = {
     {"Red Forest", "RED_FOREST"},
     {"Silent Hill", "SILENT_HILL"},
     {"Springwood", "SPRINGWOOD"},
+	{"Sleepless District", "SLEEPLESS_DISTRICT"},
     {"The Decimated Borgo", "THE_DECIMATED_BORGO"},
     {"Withered Isle", "WITHERED_ISLE"},
     {"Yamaoka Estate", "YAMAOKA_ESTATE"},
+    
 };
 
 static const QString CHOOSE_MAP_MESSAGE = "Choose a map";
